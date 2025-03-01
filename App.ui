@@ -40,22 +40,9 @@
        <rect>
         <x>0</x>
         <y>0</y>
-        <width>191</width>
+        <width>209</width>
         <height>781</height>
        </rect>
-      </property>
-     </widget>
-     <widget class="QScrollBar" name="verticalScrollBar_1">
-      <property name="geometry">
-       <rect>
-        <x>190</x>
-        <y>0</y>
-        <width>16</width>
-        <height>781</height>
-       </rect>
-      </property>
-      <property name="orientation">
-       <enum>Qt::Vertical</enum>
       </property>
      </widget>
     </widget>
@@ -86,22 +73,9 @@
        <rect>
         <x>0</x>
         <y>0</y>
-        <width>191</width>
+        <width>209</width>
         <height>351</height>
        </rect>
-      </property>
-     </widget>
-     <widget class="QScrollBar" name="verticalScrollBar_2">
-      <property name="geometry">
-       <rect>
-        <x>190</x>
-        <y>0</y>
-        <width>16</width>
-        <height>351</height>
-       </rect>
-      </property>
-      <property name="orientation">
-       <enum>Qt::Vertical</enum>
       </property>
      </widget>
     </widget>
@@ -132,22 +106,9 @@
        <rect>
         <x>0</x>
         <y>0</y>
-        <width>191</width>
+        <width>209</width>
         <height>351</height>
        </rect>
-      </property>
-     </widget>
-     <widget class="QScrollBar" name="verticalScrollBar_3">
-      <property name="geometry">
-       <rect>
-        <x>190</x>
-        <y>0</y>
-        <width>20</width>
-        <height>351</height>
-       </rect>
-      </property>
-      <property name="orientation">
-       <enum>Qt::Vertical</enum>
       </property>
      </widget>
     </widget>
